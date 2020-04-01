@@ -1,0 +1,10 @@
+# ignore
+*.txtx
+
+#no build folder
+build/
+
+#bluefish edited with ~ tilde
+*.*~
+
+#next line
