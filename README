@@ -1,0 +1,5 @@
+CPP & STL demonstration from version 11 and higher. 
+Creation of a class hierarchy and methods for multithreading. 
+Everything built into a git version management. 
+Installation and cross compilation in yocto / arago and a build process under CMake.
+
